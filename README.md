@@ -1,1 +1,1 @@
-# SmartController
+# reactMinimal
