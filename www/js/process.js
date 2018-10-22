@@ -16,4 +16,4 @@ let process = {
 process.loading();
 setTimeout(function(){
   process.menu();
-},3000);
+},7000);
